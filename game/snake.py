@@ -96,6 +96,6 @@ while not done:
     pygame.display.flip()
 
     clock.tick(5)
-    
+
 pygame.quit()
 quit()
