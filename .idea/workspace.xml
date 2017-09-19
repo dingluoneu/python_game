@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="add42269-0d56-4a45-ac4e-d3de8931bdaa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/images/player.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/images/saturn_family1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/star_war.py" afterPath="$PROJECT_DIR$/game/star_war.py" />
-    </list>
+    <list default="true" id="add42269-0d56-4a45-ac4e-d3de8931bdaa" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,14 +14,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="star_war.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/game/star_war.py">
+      <file leaf-file-name="snake.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/game/snake.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,6 +48,7 @@
         <option value="$PROJECT_DIR$/game/test2.py" />
         <option value="$PROJECT_DIR$/game/plane.py" />
         <option value="$PROJECT_DIR$/game/star_war.py" />
+        <option value="$PROJECT_DIR$/game/snake.py" />
       </list>
     </option>
   </component>
@@ -238,6 +232,14 @@
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/snake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
